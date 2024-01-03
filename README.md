@@ -5,7 +5,7 @@ This is an open-source GitHub project complementary to the jornal paper, which h
 Status update on 06 April 2023
 
 To cite:
-Ren, Y, Tang, J & Yin, Y. (2023). Flexible Seru System Formation Problem based on Transferable Full-skilled Workers, International Journal of Production Research, 2023
+Ren, Y, Tang, J, Yang Y, XL, Li, & Yin, Y. (2023). Flexible Seru System Formation Problem based on Transferable Full-skilled Workers, International Journal of Production Research, 2023
 
 **How to run:**
 Prerequisites: the codes are tested in python
